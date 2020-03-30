@@ -1,10 +1,12 @@
 # test_python_flask_mnist
 
-	install -r requirements.txt (Python 3)
+	pip3 install -r requirements.txt (Python 3)
 	
 
 #### active virtual env
+	open/folder/poject 
 	source env/bin/activate
+	
 	deactivate
 	
 #### train model 
